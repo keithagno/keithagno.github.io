@@ -1,44 +1,40 @@
 ---
 layout: project
-type: project
-image: images/micromouse.jpg
-title: Micromouse
+type: "Photography"
+image: images/3.jpg
+title: Pho
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-03-24
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - GIMP
+  - RawTherapee
+  - Nikon
+summary: A personal project on how to start freelance photography with low-budget equipment.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/7.JPG">
+  <img class="ui image" src="../images/DSC_0497.JPG">
+  <img class="ui image" src="../images/7.jpg">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+  As the corona virus hit America in the beginning of 2020, I started a hobby that could keep me busy.  With the entry level dslr camera, Nikon d3400, I was skpetical about producing good pictures. As I get more into photograhpy, I bought a new entry level(still cheap) mirrorless camera Nikon z50. Both cameras are cropped sensor. Thus, making it cheaper than full frame cameras.
+  
+  <div class="ui small rounded images">
+  <img class="ui image" src="../images/nikon d.jfif">
+  <img class="ui image" src="../images/nikon z.jfif">
+</div>
+  
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
+  Many freelance photographers have high-end cameras and lenses. I thought I would never to produce the same photos as them. However, as I kept shoting with my camera, I learned that it is not about the equipment. It is about the photographer and how they use their skills. I also learned how to use GIMP, which is like Adobe Photoshop. This gave me the power to edit my photos.
+  
+  For this project, I decided to be unique and stay with low-budget equipment. I created a website that showcases my work as a freelance photographer. The website shows evidence that I can compete in the same field with the current equipment I use
 Here is some code that illustrates how we read values from the line sensors:
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+
+You can learn more at the (https://kpmigee.wixsite.com/budgetphotography).
 
 
 
