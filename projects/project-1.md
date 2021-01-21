@@ -1,8 +1,8 @@
 ---
 layout: project
-type: "Photography"
+type: project
 image: images/3.jpg
-title: Pho
+title: Photography
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-24
