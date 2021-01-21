@@ -14,7 +14,7 @@ summary: A personal project on how to start freelance photography with low-budge
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../car.JPG">
+  <img class="ui image" src="../images/car.JPG">
   <img class="ui image" src="../images/fam.JPG">
 </div>
 
