@@ -3,14 +3,15 @@ layout: project
 type: project
 image: images/3.jpg
 title: Photography
-permalink: projects/micromouse
+permalink: projects/Photography
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-24
 labels:
   - GIMP
   - RawTherapee
   - Nikon
-summary: A personal project on how to start freelance photography with low-budget equipment.
+summary: A personal project on how I start freelance photography with low-budget equipment.
+projecturl: https://kpmigee.wixsite.com/budgetphotography
 ---
 
 <div class="ui small rounded images">
@@ -33,7 +34,7 @@ Here is some code that illustrates how we read values from the line sensors:
 
 
 
-You can learn more at the (projecturl:https://kpmigee.wixsite.com/budgetphotography).
+You can learn more at the (https://kpmigee.wixsite.com/budgetphotography).
 
 
 
