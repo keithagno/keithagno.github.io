@@ -11,7 +11,7 @@ labels:
   - C
 summary: A program will translate written International Morse Code into an English phrase.
 ---
-
+ <img class="ui medium right floated rounded image" src="../images/codsae.png">
 
 I made this program in my ICS 212 class and will translate a International Morse Code in English through command line input. This was my first into C language and used it to make this program.
 
