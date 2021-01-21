@@ -26,9 +26,9 @@ summary: A personal project on how to start freelance photography with low-budge
 </div>
   
 
-  Many freelance photographers have high-end cameras and lenses. I thought I would never to produce the same photos as them. However, as I kept shoting with my camera, I learned that it is not about the equipment. It is about the photographer and how they use their skills. I also learned how to use GIMP, which is like Adobe Photoshop. This gave me the power to edit my photos.
+  Many freelance photographers have high-end cameras and lenses. I thought I would never to produce the same photos as them. However, as I kept shoting with my camera, I learned that it is not about the equipment. It is about the photographer and how they use their skills. As this project focuses on low-budget style, I used GIMP, which is a free application. This gave me the power to edit my photos. I created a website that showcases my work as a freelance photographer. The website shows evidence that I can compete in the same field with the current equipment I use. I am still working on this project and will keep updating it.
   
-  For this project, I decided to be unique and stay with low-budget equipment. I created a website that showcases my work as a freelance photographer. The website shows evidence that I can compete in the same field with the current equipment I use
+ 
 Here is some code that illustrates how we read values from the line sensors:
 
 
