@@ -8,6 +8,7 @@ permalink: projects/Morse Code Translator
 date: 2020-03-24
 labels:
   - C++
+  - C
 summary: A program will translate written International Morse Code into an English phrase.
 ---
 
