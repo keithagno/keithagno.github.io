@@ -1,20 +1,18 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/kinaole.jfif
+title: Kina 'Ole Estate Volunteer
+permalink: projects/Kina 'Ole Estate Volunteer
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2014-06-14
 labels:
-  - Lisp
-  - GitHub
+  - Volunteer
 summary: A text adventure game I developed for ICS 313.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+
 
 To give you a flavor of the game, here is an excerpt from one run:
 
