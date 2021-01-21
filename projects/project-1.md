@@ -33,8 +33,7 @@ Here is some code that illustrates how we read values from the line sensors:
 
 
 
-You can learn more at:
-projecturl: https://kpmigee.wixsite.com/budgetphotography.
+You can learn more at: https://kpmigee.wixsite.com/budgetphotography.
 
 
 
