@@ -14,9 +14,8 @@ summary: A personal project on how to start freelance photography with low-budge
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/7.JPG">
-  <img class="ui image" src="../images/DSC_0497.JPG">
-  <img class="ui image" src="../images/7.jpg">
+  <img class="ui image" src="../car.JPG">
+  <img class="ui image" src="../images/fam.JPG">
 </div>
 
   As the corona virus hit America in the beginning of 2020, I started a hobby that could keep me busy.  With the entry level dslr camera, Nikon d3400, I was skpetical about producing good pictures. As I get more into photograhpy, I bought a new entry level(still cheap) mirrorless camera Nikon z50. Both cameras are cropped sensor. Thus, making it cheaper than full frame cameras.
