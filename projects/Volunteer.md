@@ -16,5 +16,5 @@ summary: An event to give the senior citizens a chance to explore Oahu for a day
 
 
 
-Source: https://www.kinaoleestate.com/
+Source: [Kina 'Ole](https://www.kinaoleestate.com/)
 
