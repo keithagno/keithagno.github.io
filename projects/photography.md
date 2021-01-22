@@ -26,7 +26,7 @@ summary: A personal project on how I start freelance photography with low-budget
 </div>
   
 
-  Many freelance photographers have high-end cameras and lenses. I thought I would never to produce the same photos as them. However, as I kept shooting with my camera, I learned that it is not about the equipment. It is about the photographer and how they use their skills. As this project focuses on low-budget style, I used GIMP, which is a free application. This gave me the power to edit my photos. I created a website that showcases my work as a freelance photographer. The website shows evidence that I can compete in the same field with the current equipment I use. I am still working on this project and will keep updating it.
+  Many freelance photographers have high-end cameras and lenses. I thought I would never be able to produce the same photos as them. However, as I kept shooting my camera, I learned that it is not about the equipment. It is about the photographer and how they use their skills. As this project focuses on low-budget style, I used GIMP, which is a free application. This gave me the power to edit my photos, which is like Adobe Photoshop and Lightroom. I created a website that showcases my work as a freelance photographer. The website shows evidence that I can compete in the same field as other photographers. I am still working on this project and will keep updating it.
   
 
 You can learn more at: [Budgetphotography](https://kpmigee.wixsite.com/budgetphotography/)
