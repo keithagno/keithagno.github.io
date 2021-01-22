@@ -16,5 +16,3 @@ labels:
   #include <stdlib.h> // Random number generator functions.
   
   The word I can describe JavaScript is Simplicity. It is simple and easy to use. I will need to keep learning more, and memorize different functions and codes in JavaScript to be able to use it proficiently. As for my ICS 314, I am new to this kind of class and it is stressful at the moment. The WODs, specifically, are stressful. I am used to doing my own coding in my own pace. WODs takes it to another level. I hope to get used to it and help me in the future as I work with others.
-
-
