@@ -23,9 +23,9 @@ summary: A program will translate written International Morse Code into an Engli
  
  
 
-I made this program in my ICS 212 class and will translate a International Morse Code in English through command line input. This was my first into C language and used it to make this program.
+I made this program in my ICS 212 class and will translate a International Morse Code in English through command line input. This was my first time learning C language and I used it to make this program.
 
-I made an array of Morse Code called morse[]. Each elements corresponds to each Morse Code and its letter.
+I made an array of Morse Code called morse[]. Each elements corresponds to each Morse Code and its letter and number.
  <img class="ui medium right floated rounded image" src="../images/morse code array.png">
  <img class="ui medium right floated rounded image" src="../images/morse code array2.png">
  
@@ -39,7 +39,7 @@ I made an array of Morse Code called morse[]. Each elements corresponds to each 
  
  
  
-And then the nested for loop will check the user's argument input is the same with the morse[] array. Will return the letters instead of the Morse Code when it passes.
+And then the nested for loop will check if the user's argument input is the same with the morse[] array. Will return the letters instead of the Morse Code when it passes.
  <img class="ui medium right floated rounded image" src="../images/morse code loop.png">
  
  
