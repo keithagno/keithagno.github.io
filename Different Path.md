@@ -1,7 +1,7 @@
 ---
 layout: essay
-type: Different Path
-title: Smart Questions, Good Answers
+type: essay
+title: Different Path
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-20
 labels:
