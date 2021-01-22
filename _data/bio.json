@@ -114,36 +114,26 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
+      "organization": "Kina 'Ole Estate",
+      "website": "https://www.kinaoleestate.com/",
+      "position": "Senior citizen helper",
+      "startDate": "2014-06-14",
       "endDate": "",
-      "summary": "",
+      "summary": "An event to give the senior citizens a chance to explore Oahu for a day.",
       "highlights": [
-       
+     
       ]
     }
+
   ],
+  /*
   "awards": [
     {
       "title": "",
       "date": "",
       "awarder": "",
       "summary": ""
-    }
+    } */
   ],
   "references": [
     {
